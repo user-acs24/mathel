@@ -1,0 +1,75 @@
+# Student Result Management System (SRMS)
+
+In Student result management system, it allows the students to search and view their exam results with their register number. Also, the students can abel to view the various notices and announcements posted by the institution management in the portal. The Admin user has the most priveleges in this system and can add,view,update and delete the students, classes, subjects, subject combinations, declare or edit exam results, post/delete notices.
+
+
+## Installation
+1.Download the zip file
+2.Extract the file and copy srms folder
+3.Paste it inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+5.Create a database with name `srms`.
+6.Import the tables using srms_db.sql file(given inside the zip package in SQL file folder) in database.
+7.Visit the URL http://localhost/srms/index.php
+
+
+#To access admin panel:
+
+### Login Details
+
+Admin  ----->
+
+Username: admin
+Password: Test@123
+
+
+Student  ----->
+
+Roll ID: 23205
+Class: CSE  Year-1   Section-A
+
+
+### Features
+
+Admin:
+
+=> Summarized Dashboard
+=> can add/update Class
+=> can add/update Subjects
+=> can add/update/ Active/Inactive Subject combination with class
+=> can register new student and also edit info of the student
+=> can declare/edit  result of a student.
+=> can add/delete the notice.
+=> can change password
+
+Students:
+
+=> can search and view their results using valid rollid.
+=> can also view the notices and announcements.
+
+
+## Technologies Used
+
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+
+
+
+# For more projects, check out our channel - Genie Projects World☺️
+
+https://www.youtube.com/channel/UC4_6-VSWBw_QHMyjrDDEvVQ
+
+
+# 🚀Join our Instagram page for:
+✅Projects queries and support
+✅Complete source code download
+✅Coding tips & tricks
+✅Other tech updates.
+
+
+# Thankyou for your support, Please subscribe😍❤ Stay tuned and Happy learning! 🤓📚
+
+### License
+Student Result Management System is developed under the MIT License.
